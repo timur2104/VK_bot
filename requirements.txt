@@ -1,0 +1,6 @@
+vk_api
+requests
+selenium
+beautifulsoup4
+tabulate
+transliterate
